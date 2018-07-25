@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/my-app/src/app/app.component.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-app/src/app/app.component.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-app/src/app/app.module.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-app/src/app/hero.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-app/src/app/heroes/heroes.component.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-app/src/app/heroes/heroes.component.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-app/src/app/mock-heroes.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-app/src/styles.css" charset="UTF-8" />
+  </component>
+</project>

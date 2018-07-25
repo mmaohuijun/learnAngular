@@ -1,0 +1,22 @@
+<!--<p>{{ hero.id }}</p>-->
+<!--<p>{{ hero.name | uppercase }}</p>-->
+
+<hr/>
+<h2>my heroes</h2>
+<ul>
+  <li *ngFor="let hero of heroes" (click)="onSelect(hero)" [class.selected]="hero===selectedHero">
+    <span>{{ hero.id }}</span>
+    <span>{{ hero.name }}</span>
+  </li>
+</ul>
+
+<div *ngIf="selectedHero">
+  <h2>{{selectedHero.name}} details</h2>
+  <span>{{ selectedHero.id }}</span>
+  <span>{{ selectedHero.name }}</span>
+  <div>
+    <label>name:
+      <input  [(ngModel)]="selectedHero.name" placeholder="name"/>
+    </label>
+  </div>
+</div>
