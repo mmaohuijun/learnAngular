@@ -4,6 +4,8 @@
     <file url="file://$PROJECT_DIR$/my-app/src/app/app.component.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/my-app/src/app/app.component.ts" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/my-app/src/app/app.module.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-app/src/app/hero-detail/hero-detail.component.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-app/src/app/hero-detail/hero-detail.component.ts" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/my-app/src/app/hero.ts" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/my-app/src/app/heroes/heroes.component.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/my-app/src/app/heroes/heroes.component.ts" charset="UTF-8" />
